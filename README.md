@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,47 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# React Todo App
+
+🚀 A simple and clean Todo App built using React.
+
+## ✨ Features
+- Add tasks
+- Delete tasks
+- Task counter
+- Clean UI
+
+## 🛠 Tech Stack
+- React
+- JavaScript
+- CSS
+
+## 📸 Screenshot
+(Add your screenshot here)
+
+## 🔗 Live Demo
+(Will add soon)
+
+## 👨‍💻 Author
+Nihal M V
+
+A simple Todo application built using React.
+
+## Features
+- Add tasks
+- Delete tasks
+- Task count
+- Clean UI
+
+## Tech Stack
+- React
+- JavaScript
+- CSS
+
+## Screenshot
+(Add your project image here)
+
+## Author
+Nihal M V
+>>>>>>> 447982abe53b67cf4761a3eaba7e3f3805ea7bd6
