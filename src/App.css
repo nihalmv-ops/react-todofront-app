@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #1e1e2f, #121212);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background: rgba(139, 77, 77, 0.05);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+input {
+  width: 65%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  margin-right: 5px;
+}
+
+button {
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* Add button */
+button:first-of-type {
+  background: #4caf50;
+  color: white;
+}
+
+button:first-of-type:hover {
+  background: #43a047;
+}
+
+/* Delete button */
+li button {
+  background: #ff5252;
+  color: white;
+}
+
+li button:hover {
+  background: #e53935;
+}
+
+ul {
+  padding: 0;
+  margin-top: 20px;
+}
+
+li {
+  list-style: none;
+  background: hwb(130 31% 24% / 0.596);
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Clear button */
+.clear-btn {
+  margin-top: 15px;
+  background: #ff9800;
+  color: white;
+}
+
+.clear-btn:hover {
+  background: #c27920;
+}
